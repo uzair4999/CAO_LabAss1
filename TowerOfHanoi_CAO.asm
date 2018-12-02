@@ -2,7 +2,7 @@
 #02-131172-022
  
 .data
-prompt: .asciiz "Enter number of disks to play the game: "
+prompt: .asciiz "Enter number of disks to play Tower of Hanoi game: "
 part1: .asciiz "\nMove disk "
 part2: .asciiz " from rod "
 part3: .asciiz " to rod "
